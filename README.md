@@ -1,4 +1,4 @@
-# archeo🏺 ArchaeoInfer: AI for Archaeological Site Prediction
+🏺 ArchaeoInfer: AI for Archaeological Site Prediction
 
 ## 📌 Overview
 ArchaeoInfer is an AI-powered system designed to predict potential archaeological sites using geospatial data, environmental features, and probabilistic modeling.
